@@ -23,9 +23,9 @@ Ik ben een student en studeer applicatie en databeheer in het VTI van waregem
 
 ## projects
 
--pong geprogrammeerd 
--reversi bordspel geprogrammeerd en gevisualiseerd
--GIP Gungi bordspel programmeren en visualiseren
+- pong geprogrammeerd 
+- reversi bordspel geprogrammeerd en gevisualiseerd
+- GIP Gungi bordspel programmeren en visualiseren
 
 ## contact
 
