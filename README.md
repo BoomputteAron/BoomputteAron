@@ -2,14 +2,14 @@
 Ik ben een student en studeer applicatie en databeheer in het VTI van waregem 
 18 jaar en vol intresse in de IT wereld
 
-## Werkervaring
+## Werkervaring🔧
 
 - electra contractors mee op de werf als elecktriciën
 - boomputtebvba mee op de werf als loodgieter
 - horeca events als barman en opdienen bij evenement/fuiven
 - A million dreams als barman in een cafe + zelfstandig openhouden
 
-## Skills
+## Skills💡
 
 - C#
 - C++
@@ -21,13 +21,13 @@ Ik ben een student en studeer applicatie en databeheer in het VTI van waregem
 - Ubuntu
 - WPF
 
-## projects
+## projects👷🏻‍♂️
 
 - pong geprogrammeerd 
 - reversi bordspel geprogrammeerd en gevisualiseerd
 - GIP Gungi bordspel programmeren en visualiseren
 
-## contact
+## contact📞
 
 - Locatie: Wielsbeke, belgium
 - GSM: +32 492 09 51 09
