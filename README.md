@@ -4,8 +4,8 @@ Ik ben een student en studeer applicatie en databeheer in het VTI van waregem
 
 ## Werkervaring🔧
 
-- electra contractors mee op de werf als elecktriciën
-- boomputtebvba mee op de werf als loodgieter
+- Electra contractors mee op de werf als elecktriciën
+- Boomputtebvba mee op de werf als loodgieter
 - horeca events als barman en opdienen bij evenement/fuiven
 - A million dreams als barman in een cafe + zelfstandig openhouden
 
@@ -30,7 +30,7 @@ Ik ben een student en studeer applicatie en databeheer in het VTI van waregem
 ## contact📞
 
 - Locatie: Wielsbeke, belgium
-- GSM: +32 492 09 51 09
+- GSM: +32 482 08 51 08
 - Email: Aronboomputteskype@gmail.com
 <!--
 **BoomputteAron/BoomputteAron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
