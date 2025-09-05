@@ -21,13 +21,13 @@ Ik ben een student en studeer applicatie en databeheer in het VTI van waregem
 - Ubuntu
 - WPF
 
-##projects
+## projects
 
 -pong geprogrammeerd 
 -reversi bordspel geprogrammeerd en gevisualiseerd
 -GIP Gungi bordspel programmeren en visualiseren
 
-##contact
+## contact
 
 - Locatie: Wielsbeke, belgium
 - GSM: +32 492 09 51 09
